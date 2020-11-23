@@ -1,6 +1,6 @@
 ## HI THERE,
 
-I am a student of Carnegie Mellon University Masters of Computational Finance (A.K.A MFE) program. Just a little more about myself, I enjoy baking and running. Feel free to pop by and say hi to me via my [LinkedIn page](www.linkedin.com/in/jasmine-lim-dm). 
+I am a student of Carnegie Mellon University Masters of Computational Finance (A.K.A. MFE) program. Just a little more about myself, I enjoy baking and running. Feel free to pop by and say hi to me via my [LinkedIn page](www.linkedin.com/in/jasmine-lim-dm). 
 
 Below is a humble collections of my projects and codes. Happy to receive feedback or just to bounce off idea. 
 
